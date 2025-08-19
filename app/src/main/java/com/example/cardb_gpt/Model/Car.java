@@ -16,6 +16,10 @@ public class Car {
         this.price = price;
     }
 
+    public Car() {
+
+    }
+
     public int getId() {
         return id;
     }
